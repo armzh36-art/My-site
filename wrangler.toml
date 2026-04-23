@@ -1,0 +1,12 @@
+name = "dark-login"
+main = "worker.js"
+compatibility_date = "2026-04-23"
+type = "module"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dark_login_user"
+
+[[kv_namespaces]]
+binding = "KV_BINDING"
+id = "573590027c7140acbbbac97cd1ddb459"
